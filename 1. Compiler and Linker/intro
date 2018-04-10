@@ -1,6 +1,1 @@
-This the basic program structure in C++
 
-Line1: header files, which are preprocessed files which do not get compiled. All the preprocessed files are copied into the main code, and then they get compiled 
-Line2: main function, this the entry point in every C++ source code. It is the only special function with default return value 0.
-Line3: statement, basic code to print "string" and end line.
-Line4: inbuild function, to hold the output screen until input in provided through keyboard.
