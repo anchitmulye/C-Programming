@@ -1,7 +1,7 @@
-#include <iostream>
+#include <iostream>							//Line1
 
-int main()
+int main()         							//Line2
 {
-	std::cout << "Welcome to C++Programming!" << std::endl;
-	std::cin.get();
+	std::cout << "Welcome to C++Programming!" << std::endl;		//Line3
+	std::cin.get();							//Line4
 }
